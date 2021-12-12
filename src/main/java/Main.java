@@ -1,8 +1,8 @@
 public class Main {
 
     public static void main(String[] args) {
-        MakeAppointment makeAppointment = new MakeAppointment();
-        System.out.println(makeAppointment.getAllAppointment());
-        System.out.println(makeAppointment.addApointment());
+        MakeProduct makeProduct = new MakeProduct();
+        System.out.println(makeProduct.getAllProducts());
+        System.out.println(makeProduct.addProduct());
     }
 }
